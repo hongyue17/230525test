@@ -1,1 +1,0 @@
-C:/Users/USER/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/USER/Desktop/Python class/230517-QT Designer/230525 calculator upload.py"
