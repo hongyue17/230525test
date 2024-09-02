@@ -23,11 +23,11 @@ This project from the "Analytics for Urban Policy" module during my master’s p
 ![2024 Council Tax to Average Housing Price Ratio by Borough](2024_council_tax_to_average_housing_price_ratio_by_borough.png)
 
 #### Ratio of Council Tax to Average Taxpayer Income (2010-2021)
-    ![Scatter Plot of Borough Council Tax to Average Taxpayer Income Ratios](scatter_plot_of_borough_council_tax_to_average_taxpayer_income_ratios.png)  
-    ![2021 Council Tax to Average Income Ratio by Borough](2021_council_tax_to_average_income_ratio_by_borough.png)
+![Scatter Plot of Borough Council Tax to Average Taxpayer Income Ratios](scatter_plot_of_borough_council_tax_to_average_taxpayer_income_ratios.png)  
+![2021 Council Tax to Average Income Ratio by Borough](2021_council_tax_to_average_income_ratio_by_borough.png)
 
 #### Tax Pressure Index
-    ![Tax Pressure Index by Borough](tax_pressure_index_by_borough.png)
+![Tax Pressure Index by Borough](tax_pressure_index_by_borough.png)
 
 <br>
 
